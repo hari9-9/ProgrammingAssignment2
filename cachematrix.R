@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+#function to cache matrix inverse
 makeCacheMatrix <- function(x = matrix()) {
 
 }
